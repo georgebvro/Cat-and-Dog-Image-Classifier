@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Cat and Dog Image Classifier
 
 This is the "Cat and Dog Image Classifier" certification project, part of "Machine Learning with Python" course on freeCodeCamp.
 
